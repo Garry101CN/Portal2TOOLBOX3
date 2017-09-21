@@ -9,7 +9,7 @@ room(based on UDP protocol), Game maps download platform and FlashPorMap
 (easily put the map files in to corresponding path with drafting).
 
 About series:
-Portal2 Tool Box(Original named Portal2 AIO Super Launcher) was established 
+Portal2 Tool Box(Originally named Portal2 AIO Super Launcher) was established 
 when I was 14 years old.The software greatly helped many non-steam players 
 enjoy their Portal2 coop mode smoothly.The series includes three generations 
 and one pre-alpha version.Because I did't get through to something about UI,
